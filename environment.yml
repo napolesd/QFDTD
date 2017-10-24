@@ -1,5 +1,4 @@
 name: dependencias
 dependencies:
-  - python=3.4
   - numpy
   - matplotlib
